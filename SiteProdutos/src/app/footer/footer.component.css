@@ -1,0 +1,31 @@
+.containerfooterleft{
+  display: block;
+  text-align: left;
+  width: 33%;
+  background-color: aqua;
+  float: left;
+}
+.containerfootercenter{
+  display: block;
+  text-align: left;
+  width: 33%;
+  background-color: gray;
+  float: left;
+}
+.containerfooterright{
+  display: block;
+  text-align: left;
+  width: 33%;
+  background-color: white;
+  float: left;
+}
+.contactos{
+  font-weight: bold;
+}
+.apiexterna{
+display: block;
+text-align: center;
+background-color: aqua;
+margin-left: 33%;
+margin-right: 33%;
+}
